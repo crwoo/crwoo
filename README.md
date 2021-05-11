@@ -5,7 +5,9 @@
 
 
 > Github Beginner :joy:
+
 > Always try learning :sparkles: New Technologies :sparkles:
+
 > Current: make Side Projects with Spring, Django, React, HTML/CSS
 
 
