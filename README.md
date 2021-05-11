@@ -8,15 +8,19 @@
 - Always try learning :sparkles: New Technologies :sparkles:  
 - Current: make Side Projects with Spring, Django, React, HTML/CSS  
 
+  
+  
+  
 
-
-
+  
 
 
 > Skills: REACT / JS / HTML / CSS / Python / JAVA / jQuery / SQL  
 
+  
 
-
+    
+  
 
 
 - 🔭 I’m currently working on this page. 
