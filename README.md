@@ -15,10 +15,20 @@ Skills: REACT / JS / HTML / CSS / Python / JAVA / jQuery / SQL
 - 📫 How to reach me: mail to dananoplat@gmail.com 
 - ⚡ Fun fact: also interested in Data Science, Kaggle 
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/crwoo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/crwoo)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/crwoo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/crwoo)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crwoo)](https://github.com/anuraghazra/github-readme-stats)
+## Githu Status
+------
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=crwoo)  
+<table><tr><td valign="top" width="50%">
 
+<img src="https://github-readme-stats.vercel.app/api?username=crwoo&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crwoo&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
