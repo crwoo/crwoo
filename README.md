@@ -21,7 +21,7 @@ Skills: REACT / JS / HTML / CSS / Python / JAVA / jQuery / SQL
 
 
 
-### Gihub Status
+**Github Status **
 ------
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crwoo&hide_border=true&layout=compact" align="left" style="width: 100%" />
