@@ -1,5 +1,7 @@
-### Hi there 👋
-#### Repository for Doeveloper who wants be a Full Stack Developer
+## Hi there 👋
+
+
+### Repository for Doeveloper who wants be a Full Stack Developer
 
 ------
 
@@ -21,9 +23,8 @@ Skills: REACT / JS / HTML / CSS / Python / JAVA / jQuery / SQL
 
 
 
-**Github Status **
+**Github Status**
 ------
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crwoo&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 <!--<table><tr><td valign="top" width="50%"> -->
