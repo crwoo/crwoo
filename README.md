@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there 👋  
 
-**Repository for Doeveloper who wants be a Full Stack Developer**
+
 ------
 
 
